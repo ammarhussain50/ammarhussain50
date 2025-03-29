@@ -54,7 +54,7 @@ I'm a **MERN-Stack Developer** passionate about building modern, scalable web ap
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-shahzeel-b06a8822a/">
+  <a href="https://www.linkedin.com/in/ammar-hussain-886084241/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
