@@ -75,7 +75,7 @@ Create, Read, Update, Delete operations with API integration
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-hussain-886084241/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-roan-66.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-97hj.vercel.app/)
 
 </div>
 
@@ -85,6 +85,6 @@ Create, Read, Update, Delete operations with API integration
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![Snake Animation](https://github.com/ammarhussain50/ammarhussain50/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
