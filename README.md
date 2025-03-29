@@ -12,7 +12,7 @@ I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-per
 
 ---
 
-## � My Tech Stack  
+## 🛠️ My Tech Stack  
 <div align="center">
 
 ### 🎨 Frontend Galaxy  
@@ -30,7 +30,7 @@ I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-per
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
-### 🛠️ Tools & More  
+### 🔧 Tools & More  
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -41,14 +41,24 @@ I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-per
 
 ---
 
+## 🚀 Featured Projects  
+<div align="center">
+
+[![E-Commerce Website](https://github-readme-stats.vercel.app/api/pin/?username=SyedAmmar2001&repo=E-commerce-website&theme=radical)](https://e-commerce-website-g5y1.vercel.app/)
+[![CRUD App with Axios](https://github-readme-stats.vercel.app/api/pin/?username=SyedAmmar2001&repo/CRUD-app-using-Axios&theme=radical)](https://crud-app-using-axios-beta.vercel.app/)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats  
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAmmar2001&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAmmar2001&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SyedAmmar2001&theme=radical)
 
 </div>
 
@@ -58,17 +68,8 @@ I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-per
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-hussain-886084241/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)]https://portfolio-pi-roan-66.vercel.app/)
-
-</div>
-
----
-
-## ✨ Featured Projects  
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical)](https://e-commerce-website-g5y1.vercel.app/)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical)](https://crud-app-using-axios-beta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-roan-66.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedAmmar2001)
 
 </div>
 
@@ -78,6 +79,6 @@ I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-per
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/SyedAmmar2001/SyedAmmar2001/blob/output/github-contribution-grid-snake.svg)
 
 </div>
