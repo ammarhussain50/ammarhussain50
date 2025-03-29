@@ -45,12 +45,12 @@ I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-per
 <div align="center">
 
 ### E-Commerce Platform  
-[![E-Commerce](https://raw.githubusercontent.com/ammarhussain50/your-repo-name/main/project1.png)](https://e-commerce-website-g5y1.vercel.app/)
+[![E-Commerce](https://raw.githubusercontent.com/ammarhussain50/E-commerce-website/main/screenshots/project1.png)](https://e-commerce-website-g5y1.vercel.app/)
 *React | Redux | Tailwind CSS*  
 Product filtering, cart management, and responsive design  
 
 ### CRUD Operations App  
-[![CRUD App](https://raw.githubusercontent.com/ammarhussain50/your-repo-name/main/project2.png)](https://crud-app-using-axios-beta.vercel.app/)  
+[![CRUD App](https://raw.githubusercontent.com/ammarhussain50/CRUD-app-using-Axios/main/screenshots/project2.png)](https://crud-app-using-axios-beta.vercel.app/)  
 *React | Axios | JSON Server*  
 Create, Read, Update, Delete operations with API integration  
 
