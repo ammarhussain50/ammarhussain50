@@ -1,6 +1,6 @@
 # 💫 About Me  
-👋 **Hi, I'm Muhammad Shahzeel!**  
-I'm a **Full-Stack Developer** passionate about building modern, scalable web applications using the **MERN stack** and modern UI frameworks to create fast, responsive user experiences.  
+👋 **Hi, I'm Syed Ammar!**  
+I'm a **MERN-Stack Developer** passionate about building modern, scalable web applications using the **MERN stack** and modern UI frameworks to create fast, responsive user experiences.  
 
 📚 **Next target to Learn:** Next.js | TypeScript  
 💡 Open to collaborations and contributing to open-source!  
