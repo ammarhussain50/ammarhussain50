@@ -44,8 +44,15 @@ I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-per
 ## 🚀 Featured Projects  
 <div align="center">
 
-[![E-Commerce Website](https://github-readme-stats.vercel.app/api/pin/?username=SyedAmmar2001&repo=E-commerce-website&theme=radical)](https://e-commerce-website-g5y1.vercel.app/)
-[![CRUD App with Axios](https://github-readme-stats.vercel.app/api/pin/?username=SyedAmmar2001&repo=CRUD-app-using-Axios&theme=radical)](https://crud-app-using-axios-beta.vercel.app/)
+### E-Commerce Platform  
+[![E-Commerce](https://raw.githubusercontent.com/ammarhussain50/your-repo-name/main/project1.png)](https://e-commerce-website-g5y1.vercel.app/)
+*React | Redux | Tailwind CSS*  
+Product filtering, cart management, and responsive design  
+
+### CRUD Operations App  
+[![CRUD App](https://raw.githubusercontent.com/ammarhussain50/your-repo-name/main/project2.png)](https://crud-app-using-axios-beta.vercel.app/)  
+*React | Axios | JSON Server*  
+Create, Read, Update, Delete operations with API integration  
 
 </div>
 
@@ -54,11 +61,11 @@ I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-per
 ## 📊 GitHub Stats  
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAmmar2001&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammarhussain50&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAmmar2001&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhussain50&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SyedAmmar2001&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ammarhussain50&theme=radical)
 
 </div>
 
@@ -78,8 +85,6 @@ I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-per
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![Snake Animation](https://github.com/SyedAmmar2001/SyedAmmar2001/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+![Snake Animation](https://github.com/ammarhussain50/ammarhussain50/blob/output/github-contribution-grid-snake.svg)
 
 </div>
