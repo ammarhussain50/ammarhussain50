@@ -59,33 +59,70 @@ Create, Read, Update, Delete operations with API integration
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammarhussain50&show_icons=true&theme=radical&count_private=true)
+## 👨‍💻 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhussain50&layout=compact&theme=radical)
+👋 Hi, I'm **Syed Ammar Hussain**  
+I am an enthusiastic **ASP.NET Full-Stack Developer** with a strong interest in building secure, scalable, and efficient web applications.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ammarhussain50&theme=radical)
+I mainly work with **ASP.NET Core**, **MVC**, **Web APIs**, and **Entity Framework**, along with modern frontend tools like **Angular** and **React**. I enjoy turning complex problems into clean and maintainable solutions.
 
-</div>
-
----
-
-## 🌐 Let's Connect  
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-hussain-886084241/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-9ckg.vercel.app/)
-
-</div>
+🎯 **Objective:** To grow as a professional software developer by contributing to meaningful and challenging projects.  
+🤝 **Open to:** Entry-level / Junior roles, internships, and collaborative opportunities.  
+📚 **Currently Learning:** ASP.NET Identity, Clean Architecture, API security best practices, and advanced frontend techniques.
 
 ---
 
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 🚀 Tech Stack & Skills
 
+### 🧠 Programming & Fundamentals
+- C#
+- JavaScript
+- Object-Oriented Programming (OOP)
+- SOLID Principles
 
+### 🎨 Frontend Development
+- HTML5, CSS3
+- Bootstrap
+- Angular
+- React
+- Responsive UI Design
 
-</div>
+### 🔗 Backend Development
+- ASP.NET Core
+- ASP.NET MVC
+- RESTful Web APIs
+- Entity Framework Core
+- LINQ
+- SQL Server
+
+### 🧰 Tools & Utilities
+- Visual Studio / VS Code
+- Git & GitHub
+- Postman
+- Database Design
+- Basic Deployment Knowledge
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Science in Computer Science (BSCS)**  
+🏫 University of Karachi  
+📅 Expected Graduation: **2026**
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn  
+- 📧 Email  
+- 💻 GitHub  
+
+*(Add your profile links here)*
+
+---
+
+## 💬 Developer Quote
+
+> "Good software is built twice —  
+first in the mind, then in clean code."
