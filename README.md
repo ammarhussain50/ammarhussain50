@@ -52,8 +52,8 @@ I work with **ASP.NET Core**, **Entity Framework**, **REST APIs**, and modern fr
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/">
-    <img src="https://www.linkedin.com/in/ammar-hussain-886084241/" />
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ammarhussain50/)">
+    <img src="[https://www.linkedin.com/in/ammar-hussain-886084241/](https://skillicons.dev/icons?i=linkedin)" />
   </a>
   <a href="mailto:hussainammar205@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
