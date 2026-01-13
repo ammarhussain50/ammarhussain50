@@ -1,38 +1,45 @@
 ## 👨‍💻 About Me
 
 👋 Hi, I'm **Syed Ammar Hussain**  
-An enthusiastic **ASP.NET Full-Stack Developer** passionate about building scalable, secure, and high-performance web applications.
+A passionate **ASP.NET Full-Stack Developer** focused on building scalable, secure, and modern web applications.
 
-I specialize in **ASP.NET Core**, **MVC**, **Web APIs**, and **Entity Framework**, with strong frontend experience in **Angular** and **React**. I enjoy writing clean code and following best practices.
+I work with **ASP.NET Core**, **Entity Framework**, **REST APIs**, and modern frontend frameworks. I enjoy clean architecture, API security, and performance-oriented development.
 
-🎯 **Goal:** Grow as a professional developer by contributing to impactful software projects  
+🎯 **Goal:** Grow as a professional developer by contributing to real-world software projects  
 🤝 **Open to:** Junior / Entry-Level roles, internships & collaborations  
-📚 **Currently Learning:** Clean Architecture, ASP.NET Identity & API Security  
+📚 **Currently Learning:** Clean Architecture, JWT Security & Advanced Angular  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🧩 Programming Languages
+### 🧩 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,js" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" />
 </p>
 
-### 🎨 Frontend Development
+---
+
+### ⚡ Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react" />
+  <img src="https://skillicons.dev/icons?i=angular,react,redux,tailwind,bootstrap" />
 </p>
+
+---
 
 ### 🔗 Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48"/>
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" height="36"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-Core-512BD4?style=for-the-badge&logo=.net" height="36"/>
 </p>
 
-### 🧰 Tools & Databases
+---
+
+### 🧰 Tools & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,swagger,git,github,vercel,netlify" />
 </p>
 
 ---
