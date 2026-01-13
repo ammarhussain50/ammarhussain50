@@ -1,14 +1,15 @@
 # 💫 About Me  
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Syed+Ammar!;🚀+MERN-Stack+Developer;💡+Passionate+about+UI%2FUX;📚+Learning+Next.js+%26+TypeScript" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Syed+Ammar!;💻+ASP.NET+Developer;⚙️+MVC+%7C+Web+API+%7C+Entity+Framework;🚀+Building+Scalable+.NET+Applications" alt="Typing animation" />
 </div>
 
-I'm a **MERN-Stack Developer** passionate about crafting pixel-perfect, high-performance web applications with delightful user experiences.  
 
-✨ **Current Focus:**  
-- Building responsive UIs with React & Tailwind  
-- Learning Next.js and TypeScript  
-- Contributing to open-source projects  
+I'm a Fresh Full-Stack Developer passionate about building scalable, secure, and high-performance web applications.
+I have hands-on experience with ASP.NET Core, Angular, React, and MERN stack, focusing on clean architecture, API development, and modern UI design. 
+
+🎯 Goal: To grow as a professional developer by contributing to impactful projects.
+💡 Open to: Junior Developer roles, collaborations, and open-source contributions.
+📚 Currently Exploring: .NET Identity, Clean Architecture Patterns, and Advanced Angular Concepts. 
 
 ---
 
