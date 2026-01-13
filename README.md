@@ -50,4 +50,22 @@ I work with **ASP.NET Core**, **Entity Framework**, **REST APIs**, and modern fr
 🏫 University of Karachi  
 📅 Expected Graduation: **2026**
 
-## 📊 GitHub Stats <div align="center"> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammarhussain50&show_icons=true&theme=radical&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhussain50&layout=compact&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=ammarhussain50&theme=radical) </div> --- ## 🌐 Let's Connect <div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-hussain-886084241/) [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-9ckg.vercel.app/) </div> --- <div align="center"> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) </div>
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/">
+    <img src="https://www.linkedin.com/in/ammar-hussain-886084241/" />
+  </a>
+  <a href="mailto:hussainammar205@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/ammarhussain50">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 💬 Developer Quote
+
+> *“Strong backends, clean APIs, and scalable systems  
+are built with discipline — not shortcuts.”*
