@@ -75,7 +75,7 @@ I work with **ASP.NET Core**, **Entity Framework**, **REST APIs**, and modern fr
   <a href="mailto:hussainammar205@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/ammarhussain50" target="_blank">
+  <a href="[https://github.com/ammarhussain50](https://www.linkedin.com/in/ammar-hussain-886084241/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
